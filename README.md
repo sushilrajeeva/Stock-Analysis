@@ -1,1 +1,1 @@
-[View my HTML page](Stock Analysis.html)
+[View my HTML page](/Stock Analysis.html)
